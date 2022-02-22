@@ -3,9 +3,10 @@
 ### Run This Code Step By Step In Your Vps Or Termux. 🌍
 
 ```sh
-git clone https://github.com/OsharaShaveen/SshApi
+1) git clone https://github.com/OsharaShaveen/SshApi
 
-```sh
-cd SshApi
-```sh
-python3 ssh.
+
+2) cd SshApi
+
+
+3) python3 ssh.
